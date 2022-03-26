@@ -1,13 +1,6 @@
 /* 
-PRIMEIRO TRABALHO DE PROGRAMAÇÃO - ESTRUTURA DE SELEÇÃO
-- QUESTÃO 2 -
 
-Participantes:
-- Diogo Marques
-- Gabriel Vasconcellos
-- Gabrielle Nogueira
-- Igor Toste
-- Isaque Soares
+ALIEN VS HUNTER GAME
 
 */
 char marciano[20]; 
