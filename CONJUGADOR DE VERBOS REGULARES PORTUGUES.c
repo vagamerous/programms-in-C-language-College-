@@ -1,14 +1,5 @@
 /* 
-TERCEIRO TRABALHO DE PROGRAMAÇÃO - VETOR E MATRIZ
-- QUESTÃO 1 -
-
-Participantes:
-- Diogo Marques
-- Gabriel Vasconcellos
-- Gabrielle Nogueira
-- Igor Toste
-- Isaque Soares
-
+CONJUGADOR DE VERBOS REGULARES EM PORTUGUES BRASILEIRO
 */
 #include <string.h>
 #include <stdio.h>
